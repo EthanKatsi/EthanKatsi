@@ -1,6 +1,6 @@
 # **Hi, I'm Ethan** 👋
 
-## **Third Year Computer Science student @ Wilfrid Laurier University.**
+## **Third Year Computer Science Major @ Wilfrid Laurier University**
 
 #### _I have a passion for software engineering, entrepreneurship, data science, cloud computing, and machine learning._
 
