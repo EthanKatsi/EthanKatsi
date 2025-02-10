@@ -2,7 +2,7 @@
 
 ## **I'm a third year Computer Science student @ Wilfrid Laurier University.**
 
-_I have a passion for software engineering, entrepreneurship, data science, cloud computing, and machine learning._
+### _I have a passion for software engineering, entrepreneurship, data science, cloud computing, and machine learning._
 
 Some things I've made:
 
