@@ -6,7 +6,7 @@
 
 ### Some things I've made:
 
-#### • [Student For Hire](www,studentforhire.ca) - A company that connects students with home owners seeking landscaping and seasonal services.
+#### • [Student For Hire](www.studentforhire.ca) - A company that connects students with home owners seeking landscaping and seasonal services.
 
 #### • [NHL Tracker App](https://github.com/EthanKatsi/NHL-Tracker-App) - Android app made with Android Studio to track NHL standings, news, predictions, and live scores.
 
