@@ -4,7 +4,7 @@
 
 ### _I have a passion for software engineering, entrepreneurship, data science, cloud computing, and machine learning._
 
-#### Some things I've made:
+### Some things I've made:
 
 #### • Student For Hire - A company that connects students with home owners seeking landscaping and seasonal services.
 
