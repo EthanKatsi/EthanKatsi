@@ -1,8 +1,8 @@
-**Hi, I'm Ethan** 👋
+# **Hi, I'm Ethan** 👋
 
-I'm a third year Computer Science student @ **Wilfrid Laurier University**.
+## **I'm a third year Computer Science student @ Wilfrid Laurier University.**
 
-I have a passion for software engineering, entrepreneurship, data science, cloud computing, and machine learning.
+_I have a passion for software engineering, entrepreneurship, data science, cloud computing, and machine learning._
 
 Some things I've made:
 
