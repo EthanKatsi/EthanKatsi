@@ -6,11 +6,11 @@
 
 #### Some things I've made:
 
-##### • Student For Hire - A company that connects students with home owners seeking landscaping and seasonal services.
+#### • Student For Hire - A company that connects students with home owners seeking landscaping and seasonal services.
 
-##### • NHL Tracker App - Android app made with Android Studio to track NHL standings, news, predictions, and live scores.
+#### • NHL Tracker App - Android app made with Android Studio to track NHL standings, news, predictions, and live scores.
 
-##### • Space Dodge - An interactive game using Python the Pygame library
+#### • Space Dodge - An interactive game using Python the Pygame library
 
 
 ### LinkedIn: https://www.linkedin.com/in/ethan-katsiroubas/
