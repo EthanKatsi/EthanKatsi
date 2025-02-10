@@ -13,6 +13,6 @@
 • Space Dodge - An interactive game using Python the Pygame library
 
 
-LinkedIn: https://www.linkedin.com/in/ethan-katsiroubas/
+#### LinkedIn: https://www.linkedin.com/in/ethan-katsiroubas/
 
-Email: ethan.katsiroubas@gmail.com
+#### Email: ethan.katsiroubas@gmail.com
