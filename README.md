@@ -32,4 +32,4 @@
 
 ## 📫 Let's Connect!
 
-[![ethan.katsiroubas@gmail.com](https://img.shields.io/badge/Email-ffffff?style=for-the-badge&logo=linkedin&logoColor=white)](mailto:ethan.katsiroubas@gmail.com) [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/ethan-katsiroubas/)
+[![ethan.katsiroubas@gmail.com](https://img.shields.io/badge/ethan.katsiroubas@gmail.com-ffffff?style=for-the-badge&logo=linkedin&logoColor=white)](mailto:ethan.katsiroubas@gmail.com) [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/ethan-katsiroubas/)
