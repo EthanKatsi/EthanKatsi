@@ -22,4 +22,6 @@ I'm a third year Computer Science student at Wilfrid Laurier University with a p
 
 ### 📫 Let's Connect!
 
-📧 Email: ethan.katsiroubas@gmail.com 🔗 LinkedIn: https://www.linkedin.com/in/ethan-katsiroubas/
+#### 📧 Email: ethan.katsiroubas@gmail.com
+
+#### 🔗 LinkedIn: https://www.linkedin.com/in/ethan-katsiroubas/
