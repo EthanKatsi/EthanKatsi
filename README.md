@@ -31,6 +31,7 @@
 #### • [Space Dodge](https://github.com/EthanKatsi/Space-Dodge-Game) - An interactive game using Python the Pygame library
 
 ## 📫 Let's Connect!
+
 ### 📧 Email: ethan.katsiroubas@gmail.com
 
 ### [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/ethan-katsiroubas/)
