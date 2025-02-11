@@ -4,11 +4,11 @@
 
 #### _I have a passion for software engineering, entrepreneurship, data science, cloud computing, and machine learning._
 
-**Programming Languages:** Python, Java, C, SQL, HTML/CSS, Javascript, Typescript, PHP, XML, R, Assembly
+#### **Programming Languages:** Python, Java, C, SQL, HTML/CSS, Javascript, Typescript, PHP, XML, R, Assembly
 
-**Frameworks/Libraries:** React, Node.js, Express, RESTful API, Pygame, Pandas, NumPy, Flutter
+#### **Frameworks/Libraries:** React, Node.js, Express, RESTful API, Pygame, Pandas, NumPy, Flutter
 
-**Tools:** Git, Eclipse, VS Code, Android Studio, MySQL, WordPress, cPanel, AWS, phpMyAdmin, Jupyter Notebook
+#### **Tools:** Git, Eclipse, VS Code, Android Studio, MySQL, WordPress, cPanel, AWS, phpMyAdmin, Jupyter Notebook
 
 ### Some projects I've made:
 
