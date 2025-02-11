@@ -2,7 +2,7 @@
 
 ## **Third Year Computer Science Major @ Wilfrid Laurier University**
 
-#### _I have a passion for software engineering, entrepreneurship, data science, cloud computing, and machine learning._
+### _I have a passion for software engineering, entrepreneurship, data science, cloud computing, and machine learning._
 
 #### **Programming Languages:** Python, Java, C, SQL, HTML/CSS, Javascript, Typescript, PHP, XML, R, Assembly
 
