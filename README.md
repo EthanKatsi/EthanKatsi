@@ -1,8 +1,10 @@
 # **Hi, I'm Ethan** 👋
 
-## **Third Year Computer Science Major @ Wilfrid Laurier University**
+👨‍💻 About Me
 
-### _I have a passion for software engineering, entrepreneurship, cloud computing, and machine learning._
+I'm a third year Computer Science student at Wilfrid Laurier University with a passion for software engineering, web development, app development, entrepreneurship, and machine learning. I'm always looking for new opportunities to expand my skills and work on innovative projects.
+
+🛠 Technical Skills
 
 #### **Programming Languages:** Python, Java, C, SQL, HTML/CSS, Javascript, Typescript, PHP, XML, R, Assembly
 
@@ -10,7 +12,7 @@
 
 #### **Tools:** Git, Eclipse, VS Code, Android Studio, MySQL, WordPress, cPanel, AWS, phpMyAdmin, Jupyter Notebook
 
-### Some projects I've made:
+### 🖥️ Some projects I've made:
 
 #### • [Student For Hire](https://studentforhire.ca/) - A company that connects students with home owners seeking landscaping and seasonal services.
 
@@ -18,7 +20,7 @@
 
 #### • [Space Dodge](https://github.com/EthanKatsi/Space-Dodge-Game) - An interactive game using Python the Pygame library
 
+📫 Let's Connect!
 
-### LinkedIn: https://www.linkedin.com/in/ethan-katsiroubas/
-
-### Email: ethan.katsiroubas@gmail.com
+📧 Email: ethan.katsiroubas@gmail.com
+🔗 LinkedIn: https://www.linkedin.com/in/ethan-katsiroubas/
