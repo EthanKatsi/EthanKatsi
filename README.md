@@ -2,7 +2,7 @@
 
 ## 👨‍💻 About Me
 
-### I'm a third year Computer Science student at Wilfrid Laurier University with a passion for software engineering, web development, app development, entrepreneurship, and machine learning. I'm always looking for new opportunities to expand my skills and work on innovative projects.
+### I'm a third year Computer Science student at Wilfrid Laurier University from Toronto with a passion for software engineering, web development, app development, entrepreneurship, and machine learning. I'm always looking for new opportunities to expand my skills and work on innovative projects.
 
 ## 🛠 Technical Skills
 
@@ -31,5 +31,6 @@
 #### • [Space Dodge](https://github.com/EthanKatsi/Space-Dodge-Game) - An interactive game using Python the Pygame library
 
 ## 📫 Let's Connect!
+### 📧 Email: ethan.katsiroubas@gmail.com
 
-[![ethan.katsiroubas@gmail.com](https://img.shields.io/badge/ethan.katsiroubas@gmail.com-ffffff?style=for-the-badge&logo=linkedin&logoColor=white)](mailto:ethan.katsiroubas@gmail.com) [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/ethan-katsiroubas/)
+### [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/ethan-katsiroubas/)
