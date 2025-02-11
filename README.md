@@ -1,6 +1,6 @@
 # **Hi, I'm Ethan** 👋
 
-👨‍💻 About Me
+### 👨‍💻 About Me
 
 I'm a third year Computer Science student at Wilfrid Laurier University with a passion for software engineering, web development, app development, entrepreneurship, and machine learning. I'm always looking for new opportunities to expand my skills and work on innovative projects.
 
