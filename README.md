@@ -10,7 +10,7 @@
 ![Programming Languages](https://skillicons.dev/icons?i=python,java,c,js,html,css,typescript,kotlin,php,r,dart)
 
 #### **Frameworks/Libraries:**
-![Frameworks/Libraries](https://skillicons.dev/icons?i=react,nodejs,express,flutter), Retrofit, Pygame, Pandas, NumPy
+![Frameworks/Libraries](https://skillicons.dev/icons?i=react,nodejs,express,flutter)
 
 #### **Tools:**
 ![Tools](https://skillicons.dev/icons?i=git,eclipse,vscode,androidstudio,mysql,wordpress,aws,googlecloud,figma,gradle,pycharm)
