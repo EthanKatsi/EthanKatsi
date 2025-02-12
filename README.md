@@ -12,19 +12,8 @@
 #### **Frameworks/Libraries:**
 ![Frameworks/Libraries](https://skillicons.dev/icons?i=react,nodejs,express,flutter), Retrofit, Pygame, Pandas, NumPy
 
-#### **Tools:** Git, Eclipse, VS Code, Android Studio, WordPress, cPanel, phpMyAdmin, Jupyter Notebook
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&logo=mysql&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
-![Git]()
-![Eclipse]()
-![VS Code]()
-![Android Studio]()
-![WordPress]()
-![cPanel]()
-![phpMyAdmin]()
-![Jupyter Notebook]()
+#### **Tools:**
+![Tools](https://skillicons.dev/icons?i=git,eclipse,vscode,androidstudio,mysql,wordpress,aws)
 
 ## 🖥️ Some projects I've made:
 
