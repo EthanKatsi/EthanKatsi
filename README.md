@@ -9,16 +9,8 @@
 #### **Programming Languages:**
 ![Programming Languages](https://skillicons.dev/icons?i=python,java,c,js,html,css,typescript,php,r,dart)
 
-#### **Frameworks/Libraries:** Retrofit, Pygame, Flutter
-
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
-![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB)
-![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=flat&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
-![Retrofit]()
-![Pygame]()
-![Flutter]()
+#### **Frameworks/Libraries:**
+![Frameworks/Libraries](https://skillicons.dev/icons?i=react,nodejs,express,flutter), Retrofit, Pygame, Pandas, NumPy
 
 #### **Tools:** Git, Eclipse, VS Code, Android Studio, WordPress, cPanel, phpMyAdmin, Jupyter Notebook
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
