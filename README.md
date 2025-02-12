@@ -13,7 +13,7 @@
 ![Frameworks/Libraries](https://skillicons.dev/icons?i=react,nodejs,express,flutter), Retrofit, Pygame, Pandas, NumPy
 
 #### **Tools:**
-![Tools](https://skillicons.dev/icons?i=git,eclipse,vscode,androidstudio,mysql,wordpress,aws)
+![Tools](https://skillicons.dev/icons?i=git,eclipse,vscode,androidstudio,mysql,wordpress,aws,googlecloud)
 
 ## 🖥️ Some projects I've made:
 
