@@ -7,13 +7,16 @@
 ## 🛠 Technical Skills
 
 #### **Programming Languages:**
-![Programming Languages](https://skillicons.dev/icons?i=python,java,c,js,html,css,typescript,php,r,dart)
+![Programming Languages](https://skillicons.dev/icons?i=python,java,c,js,html,css,typescript,kotlin,php,r,dart)
 
 #### **Frameworks/Libraries:**
 ![Frameworks/Libraries](https://skillicons.dev/icons?i=react,nodejs,express,flutter), Retrofit, Pygame, Pandas, NumPy
 
 #### **Tools:**
-![Tools](https://skillicons.dev/icons?i=git,eclipse,vscode,androidstudio,mysql,wordpress,aws,googlecloud)
+![Tools](https://skillicons.dev/icons?i=git,eclipse,vscode,androidstudio,mysql,wordpress,aws,googlecloud,figma,gradle,pycharm)
+
+#### **Operating Systems:**
+![Operating Systems](https://skillicons.dev/icons?i=windows,linux,apple)
 
 ## 🖥️ Some projects I've made:
 
