@@ -2,7 +2,7 @@
 
 ## 👨‍💻 About Me
 
-### I'm a third year Computer Science student at Wilfrid Laurier University from Toronto with a passion for software engineering, web development, app development, entrepreneurship, and machine learning.
+### I'm a third year Computer Science student at Wilfrid Laurier University from Toronto with a passion for software engineering, web development, app development, entrepreneurship, and UI/UX Design.
 
 ## 🛠 Technical Skills
 
