@@ -4,7 +4,7 @@
 
 ### I'm a third year Computer Science student at Wilfrid Laurier University from Toronto with a passion for software engineering, web development, app development, entrepreneurship, and UI/UX Design.
 
-## 🛠 Technical Skills
+## 🛠 Tech Stack
 
 #### **Programming Languages:**
 ![Programming Languages](https://skillicons.dev/icons?i=python,java,c,js,html,css,typescript,kotlin,php,r,dart)
