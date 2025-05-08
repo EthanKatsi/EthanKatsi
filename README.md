@@ -2,7 +2,7 @@
 
 ## 👨‍💻 About Me
 
-### I'm a third year Computer Science student at Wilfrid Laurier University from Toronto with a passion for software engineering, web development, app development, entrepreneurship, and UI/UX Design.
+### I'm a third year Computer Science student at Wilfrid Laurier University from Toronto with a passion for app development, web development, UI/UX Design, and entrepreneurship.
 
 ## 🛠 Tech Stack
 
