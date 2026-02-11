@@ -2,7 +2,7 @@
 
 ## 👨‍💻 About Me
 
-### I'm a fourth year Computer Science student at Wilfrid Laurier University from Toronto with a passion for web/app development, entrepreneurship and sales.
+### I'm a fourth year Computer Science student at Wilfrid Laurier University from Toronto with a passion for web/app development and entrepreneurship.
 
 ## 🛠 Tech Stack
 
