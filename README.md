@@ -16,7 +16,7 @@
 ![Tools](https://skillicons.dev/icons?i=git,eclipse,vscode,androidstudio,mysql,wordpress,aws,googlecloud,figma,gradle,pycharm)
 
 #### **Operating Systems:**
-![Operating Systems](https://skillicons.dev/icons?i=windows,linux,apple)
+![Operating Systems](https://skillicons.dev/icons?i=windows,linux)
 
 ## 🖥️ Some projects I've made:
 
